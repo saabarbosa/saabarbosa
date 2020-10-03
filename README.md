@@ -10,7 +10,7 @@
 - 📑 Certifications: Microsoft, Adobe e IBM
 - 🎓 Master in Software Engineering and Specialist in IT Project Management
 - 🎼 Musics: Elvis Presley, Beatles, BeeGees, DireStraits, Guns N' Roses, Legião, JotaQuest, ..., RC, Zé Ramalho and Chicleteiro to :-) 
-- 🍺 Beer Heineken, Budweiser, Eisenbahn, ..., Coffee to :-)
+- 🍺 Beers: Heineken, Budweiser, Eisenbahn, ..., Coffee to :-)
 - 🇧🇷  Ah, e Brasileiro e nordestino kabra da peste :-)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-saabarbosa-blue)](https://www.linkedin.com/in/saabarbosa/) 

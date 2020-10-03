@@ -10,6 +10,6 @@
 - 🤔 Possuo algumas certificações da Microsoft, Adobe e IBM
 - 💬 Mestre em Engenharia de Software e Especialista em Gestão de Projetos de TI 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-klaus--dellano-blue)](https://www.linkedin.com/in/saabarbosa/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-sergio--barbosa-red)](mailto://saabarbosa@gmail.com) 
+(https://img.shields.io/badge/LinkedIn-saabarbosa-blue)](https://www.linkedin.com/in/saabarbosa/) 
+(https://img.shields.io/badge/Gmail-saabarbosa-red)](mailto://saabarbosa@gmail.com) 
 

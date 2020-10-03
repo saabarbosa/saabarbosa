@@ -8,7 +8,7 @@
 - 👓 Teaching IT disciplines and always studying new technologies (Python/React/NodeJS/Angular/...)
 - 🧰 Experience in Portals SharePoint, Apps 365, Microsoft IA BotFramework, C#, Java, JavaScript, JQuery
 - 📑 Certifications: Microsoft, Adobe e IBM
-- 🎓 Master in software engineering and Specialist in IT Project Management
+- 🎓 Master in Software Engineering and Specialist in IT Project Management
 - 🎼 Musics: Elvis Presley, Beatles, BeeGees, DireStraits, Guns N' Roses, Legião, JotaQuest, ..., RC, Chicleteiro to :-) 
 - 🍺 Beer Heineken, Budweiser, Eisenbahn, ..., Coffee to :-)
 - 🇧🇷  Ah, e Brasileiro e nordestino kabra da peste :-)

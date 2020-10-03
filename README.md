@@ -1,8 +1,5 @@
 ### Olá 👋
 
-<!--
-**saabarbosa/saabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Sérgio Barbosa
 
 ### Diretor da i9Ti Soluções em TI e Founder Devworkplace

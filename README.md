@@ -11,5 +11,5 @@
 - 💬 Mestre em Engenharia de Software e Especialista em Gestão de Projetos de TI 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-klaus--dellano-blue)](https://www.linkedin.com/in/saabarbosa/) 
-[![Gmail Badge](https://img.shields.io/badge/LinkedIn-klaus--dellano-red)](mailto://saabarbosa@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-sergio--barbosa-red)](mailto://saabarbosa@gmail.com) 
 

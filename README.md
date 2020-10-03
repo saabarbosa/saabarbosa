@@ -4,7 +4,7 @@
 
 ### CIO i9Ti / Founder Devworkplace
 
-- 💻 Remote working in Projects with Microsoft 365, Firebase and NodeJS
+- 💻 Remote working in Projects with Microsoft 365, MVC Aspnet, Firebase and NodeJS
 - 👓 Teaching IT disciplines and always studying new technologies (Python/React/NodeJS/Angular/...)
 - 🧰 Experience in Portals SharePoint, Apps 365, Microsoft IA BotFramework, C#, Java, JavaScript, JQuery, Agile methodologies
 - 📑 Certifications: Microsoft, Adobe e IBM

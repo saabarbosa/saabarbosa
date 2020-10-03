@@ -6,7 +6,7 @@
 
 - 💻 Remote working in Projects with Microsoft 365, MVC Aspnet, Firebase and NodeJS
 - 👓 Teaching IT disciplines and always studying new technologies (Python/React/NodeJS/Angular/...)
-- 🧰 Experience in Portals SharePoint, Apps 365, Microsoft IA BotFramework, C#, Java, JavaScript, JQuery, Agile methodologies
+- 🧰 Experience in Portals SharePoint, Apps 365, Microsoft IA BotFramework, C#, Java, JavaScript, JQuery, Agiles methodologies
 - 📑 Certifications: Microsoft, Adobe e IBM
 - 🎓 Master in Software Engineering and Specialist in IT Project Management
 - 🎼 Musics: Elvis Presley, Beatles, BeeGees, DireStraits, Guns N' Roses, Legião, JotaQuest, ..., RC, Zé Ramalho and Chicleteiro to :-) 

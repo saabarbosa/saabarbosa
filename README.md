@@ -11,7 +11,7 @@
 - 🎓 Master in Software Engineering and Specialist in IT Project Management
 - 🎼 Musics: Elvis Presley, Beatles, BeeGees, DireStraits, Guns N' Roses, Legião, JotaQuest, ..., RC, Zé Ramalho and Chicleteiro to :-) 
 - 🍺 Beers: Heineken, Budweiser, Eisenbahn, ..., Coffee to :-)
-- 🇧🇷  Ah, e Brasileiro e nordestino kabra da peste :-)
+- 🇧🇷  Ah, brasileiro e nordestino kabra da peste :-)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-saabarbosa-blue)](https://www.linkedin.com/in/saabarbosa/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-saabarbosa-red)](mailto://saabarbosa@gmail.com) 

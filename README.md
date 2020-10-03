@@ -2,7 +2,7 @@
 
 ## Eu sou o Sérgio Barbosa
 
-### Diretor da i9Ti Soluções em TI e Founder Devworkplace
+### Diretor da i9Ti / Devworkplace Founder
 
 - 💻 Atualmente trabalhando em Projetos usando Microsoft 365, Firebase e NodeJS
 - 👓 Lecionando discplinas de TI e estudando sempre novas linguagens/frameworks (Python/React/NodeJS/Vue/...)

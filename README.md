@@ -1,4 +1,4 @@
-### Olá galera
+### Olá galera!
 
 ## Eu sou o Sérgio Barbosa
 

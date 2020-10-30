@@ -2,7 +2,7 @@
 
 ## I'm Sérgio Barbosa
 
-### CIO i9Ti / Founder Devworkplace
+### CEO of i9Ti and Founder Devworkplace
 
 - 💻 Remote working in Projects with Microsoft 365, MVC Aspnet, Firebase and NodeJS
 - 👓 Teaching IT disciplines and always studying new technologies: OutSystems and Low Code Tools  
